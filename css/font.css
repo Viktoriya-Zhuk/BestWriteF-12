@@ -1,0 +1,16 @@
+@font-face{
+    font-family: "arial-narrow";
+    src: url(../fonts/arialn.ttf);
+}
+@font-face{
+    font-family: "r-bold";
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+@font-face{
+    font-family: "r-reg";
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face{
+    font-family: "r-thin";
+    src: url(../fonts/Roboto-Thin.ttf);
+}
